@@ -1,2 +1,3 @@
-print("how are you")
-print(9)
+print("hoooo")
+print(1000)
+
